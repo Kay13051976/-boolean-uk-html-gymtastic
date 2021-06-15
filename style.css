@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+}
+.h2-group {
+    margin-left: 30px;
+    color: white;
+
+}
+h2 {
+    color: #357BA6;
+}
+.h2-group, .main-nav {
+    display: inline-block;
+}
+.logo {
+    background-color: #357BA6;
+}
+body {
+    margin-left: 20px;
+
+
+}
+ 
+.nav-list {
+    list-style-type: none;
+}
+
+ 
+.nav-list li {
+   margin: 20px;
+   padding: 0px;
+   color:white;
+   display: inline-block;
+
+}
+
+.button {
+    
+display: inline-block;
+width: 120px;
+height: 40px;
+padding: 5px;
+border-radius: 8px;
+margin: 20px;
+   }
+.attract {
+    color: #357BA6;
+}
+
+.orange-button {
+    background-color: white;
+border-radius: 10px;
+border-color: #EEA46B;
+}
+.discount {
+    color: #3578EA;
+}
+.member {
+    color: #EEA46B;
+}
+.purple-button {
+    background-color: #B48FF7;
+}
+
+.blue-button {
+    background-color: #3578EA;
+}
+.red-button {
+    background-color: #EA3324;
+}
+
+.header {
+    background-color: #357BA6;
+}
+
+.footer {
+    background-color: #357BA6; 
+
+}
+.gymtastic {
+    width: 0;
+    height: 0;
+    box-sizing: border-box;
+}
+.footer-list {
+list-style-type: none;
+}
+.footer-nav-list {
+    list-style-type:none;
+}
+.footer-list {
+    color: white;
+}
+.nav-list {
+    color: white;
+}
